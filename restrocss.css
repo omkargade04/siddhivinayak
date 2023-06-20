@@ -1,0 +1,169 @@
+.restro-bg-img{
+    width: 100%;
+    height: 100%;
+    background-image: linear-gradient(white,rgb(223, 201, 8));
+
+}
+.navbar {
+    background-color: orange;
+    border-radius: 10px;
+}
+
+.navbar ul {
+    overflow: auto;
+}
+
+.navbar li {
+    float: left;
+    list-style: none;
+    font-family: 'Crimson Text', serif;
+    padding: 4px 4px;
+    margin: 10px 10px
+}
+
+.navbar li a {
+    color: white;
+    font-family: 'Crimson Text', serif;
+    padding: 15px;
+    text-decoration: none;
+}
+
+.navbar input {
+    border-radius: 50px;
+    padding: 3px 4px;
+}
+
+.search {
+    float: right;
+    color: white;
+    padding: 12px 75px;
+    border-radius: 50px;
+}
+
+.restro_img {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 100%;
+    max-height: 100%;
+}
+.cafe_img {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: auto;
+    height: auto;
+}
+.pizza {
+    width: 300px;
+    
+    background-color: #f1f1f1;
+    border-radius: 45px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+}
+
+.pizza img {
+    width: 300px;
+    height: 200px;
+    display: block;
+}
+
+.pizza-content {
+    padding: 16px;
+}
+
+.pizza-title {
+    font-size: 20px;
+    margin-top: 0;
+}
+
+.pizza-text {
+    margin-bottom: 16px;
+}
+
+.pizza-link {
+    display: inline-block;
+    padding: 8px 16px;
+    background-color: #333;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 4px;
+}
+.spacer1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.spacer{
+    
+    float: left;
+    
+}
+.maggie {
+    width: 300px;
+    
+    background-color: #f1f1f1;
+    border-radius: 45px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+}
+
+.maggie img {
+    width: 300px;
+    height: 200px;
+    display: block;
+}
+
+.maggie-content {
+    padding: 16px;
+}
+
+.maggie-title {
+    font-size: 20px;
+    margin-top: 0;
+}
+
+.maggie-text {
+    margin-bottom: 16px;
+}
+
+.maggie-link {
+    display: inline-block;
+    padding: 8px 16px;
+    background-color: #333;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 4px;
+}
+
+.burger img {
+    width: 300px;
+    height: 200px;
+    display: block;
+}
+
+.burger-content {
+    padding: 16px;
+}
+
+.burger-title {
+    font-size: 20px;
+    margin-top: 0;
+}
+
+.burger-text {
+    margin-bottom: 16px;
+}
+
+.burger-link {
+    display: inline-block;
+    padding: 8px 16px;
+    background-color: #333;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 4px;
+}
